@@ -14,7 +14,6 @@ struct POD
    int a[Size];
 };
 
-//this was test code now superceded with the CATCH framework, which defines its own main
 
 int main()
 {
